@@ -27,10 +27,12 @@ Jobs and Career Site App
 - .NET Core Tools
 - .NET Core Test Explorer
 
-# Progress
+# Progress 
 
-- [x] S01 |||||||
-- [ ] S02 --------------
+General: <progress value="1" max="17"></progress>
+
+- [x] S01 <progress value="7" max="7"></progress>
+- [ ] S02 <progress value="0" max="14"></progress>
 - [ ] S03 -------
 - [ ] S04 -------------
 - [ ] S05 -------------
