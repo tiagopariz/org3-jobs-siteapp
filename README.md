@@ -29,9 +29,12 @@ Jobs and Career Site App
 
 # Progress 
 
-General: <progress value="1" max="17"></progress>
+General: 
 
-- [x] S01 <progress value="7" max="7"></progress>
+<progress value="1" max="17"></progress>
+
+- [x] S01 
+<progress value="7" max="7"></progress>
 - [ ] S02 <progress value="0" max="14"></progress>
 - [ ] S03 -------
 - [ ] S04 -------------
