@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "rangav.vscode-thunder-client",
+        "kreativ-software.csharpextensions",
+        "k--kato.docomment",
+        "patcx.vscode-nuget-gallery",
+        "formulahendry.dotnet",
+        "formulahendry.dotnet-test-explorer"
+    ]
+}
